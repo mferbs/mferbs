@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mferbs
+- 👀 I’m interested in learning more about programming
+- 🌱 I’m currently learning python
+- 📫 How to reach me: discord - fernanda#4959
